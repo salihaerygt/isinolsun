@@ -13,7 +13,7 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
             System.out.println("Sorunu Muhammed Kalabaşı çözdü tabiki de(her zamanki gibi)");
-
+            System.out.println("asdasdasd");
             int a = 5;
 
         }
